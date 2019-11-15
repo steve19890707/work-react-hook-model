@@ -1,17 +1,25 @@
 # work-react-hook-model
-version 1.0.0
+```diff
+# version 1.0.0
+```
 
 ## quick start! (install node_modules)
 
-> -->  npm / brew install
+```diff
++ -->  npm / brew install
+```
 
 ## use web localhost cli
 
-> --> npm / brew run start
+```diff
++ --> npm / brew run start
+```
 
 ## js boundle cli
 
-> --> npm / brew run watch
+```diff
++ --> npm / brew run watch
+```
 
 ## packges main module list
 
