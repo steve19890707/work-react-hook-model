@@ -1,20 +1,28 @@
 # work-react-hook-model
-
 version 1.0.0
 
-quick start! (install node_modules)
+## quick start! (install node_modules)
 
--->  npm / brew install
+> -->  npm / brew install
 
-use web localhost cli
+## use web localhost cli
 
---> npm / brew run start
+> --> npm / brew run start
 
-js boundle cli
+## js boundle cli
 
---> npm / brew run watch
+> --> npm / brew run watch
 
-Now, try to develop your project!! good luk
+## packges main module list
 
+* @babel/...
+* classnames
+* current-device
+* immer
+* immutable
+* live-server
+* react(dom,icons,router-dom)
+* styled-components
+* webpack/cli
 
-
+### Now, try to develop your project!! good luk
